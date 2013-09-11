@@ -1,4 +1,21 @@
-name: Harish and Martina's Stories!
-markdown: redcarpet
-pygments: true
+title:            Harish and Martina's Stories
+
+owner:
+  name:           Harish and Martina Narayanan
+  avatar:         avatar.png
+  bio:            "Piglet and porcupine"
+  email:          hello@hmstories.org
+  disqus:         hmstories
+
+links:
+  - title: About
+    url: /about
+  - title: Wedding
+    url: /wedding
+
+timezone:    Europe/Oslo
+future:      true
+pygments:    true
+markdown:    redcarpet
+
 permalink: /:year/:month/:day/:title/
