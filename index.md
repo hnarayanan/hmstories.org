@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Coming soon...
+title: Recent Stories
 tags: [news, overview]
 ---

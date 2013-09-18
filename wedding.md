@@ -9,6 +9,14 @@ image:
 
 ### When
 
+#### November 28th, 2013
+Mehendi and Get Together
+
+Celebration: 4.00&ndash;8.00 PM
+
+Dinner: 6.30 PM onwards
+
+
 <br>&nbsp;
 
 ### Where
