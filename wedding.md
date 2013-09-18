@@ -35,4 +35,4 @@ All we want is for you to celebrate with us and have an enjoyable time. Please a
 
 ### Have a question?
 
-Please [write to us](mailto:) if you need more information or help with anything!
+Please [write to us](mailto:hnarayanan@gmail.com) if you need more information or help with anything!

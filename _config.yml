@@ -10,6 +10,8 @@ owner:
 links:
   - title: Wedding
     url: /wedding
+  - title: Hochzeit
+    url: /hochzeit
 
 timezone:    Europe/Oslo
 future:      true
