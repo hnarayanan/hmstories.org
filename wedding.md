@@ -9,19 +9,18 @@ image:
 
 ### When
 
-#### November 28th, 2013
-Mehendi and Get Together
+**November 28th &mdash; Mehendi and Get Together**<br>
+Celebration: 4.00&ndash;8.00 <small>PM</small><br>
+Dinner: 6.30 <small>PM</small> onward
 
-Celebration: 4.00&ndash;8.00 PM
-
-Dinner: 6.30 PM onwards
-
-
-<br>&nbsp;
+**November 29th &mdash; Wedding**<br>
+Kasi Yathra: 6.00 <small>AM</small><br>
+Muhurtham: 7.30&ndash;8.30 <small>AM</small><br>
+Breakfast: 8.00 <small>AM</small> onward
 
 ### Where
 
-[Rina's Venue](http://www.rinasvenue.com/)<br>
+**[Rina's Venue](http://www.rinasvenue.com/)**<br>
 2 Bhakta Vedanta Salai, Near ISKCON Temple<br>
 East Coast Road (Beyond VGP)<br>
 Chennai &mdash; 600 119
@@ -34,3 +33,6 @@ Chennai &mdash; 600 119
 
 All we want is for you to celebrate with us and have an enjoyable time. Please avoid boxed gifts and flowers, as we will not be able to carry them back to Oslo. Any financial contributions will be donated to worthy social causes, such as the [SOS Children's Village](http://www.soschildrensvillages.in/Pages/default.aspx) in Chennai.
 
+### Have a question?
+
+Please [write to us](mailto:) if you need more information or help with anything!
